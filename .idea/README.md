@@ -1,0 +1,1 @@
+Cái này làm ra để học, làm quen với thao tác git, không có nội dung gì đáng giá cả 
